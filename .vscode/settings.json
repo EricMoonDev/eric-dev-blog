@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "${workspaceFolder}/blogvenv/bin/python",
+    "git.ignoreLimitWarning": true
+}
